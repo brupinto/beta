@@ -3,6 +3,8 @@
 # Backlog
 
 - Story telling;
+- background;
+- mapas, mundo;
 
 - # Basico
     - Movimentação;
