@@ -1,5 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"order":0,},
+    {"id":{"name":"spr_parede","path":"sprites/spr_parede/spr_parede.yy",},"order":1,},
+    {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"order":1,},
+    {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
